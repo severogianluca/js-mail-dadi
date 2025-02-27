@@ -6,3 +6,9 @@ const listMail = [
     'ultrasFedayn@gmail.com'
 ]
 
+let check = prompt('inserisci qui la tua mail');
+
+for(let i = 0; i< listMail.length; i++){
+    const validMail = listMail[i];
+
+}
